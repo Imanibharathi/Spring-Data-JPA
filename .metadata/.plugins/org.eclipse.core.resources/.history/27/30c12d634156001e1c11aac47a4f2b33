@@ -1,0 +1,5 @@
+package com.goSpring.restdemo.controller;
+
+public class CloudVendorController {
+
+}

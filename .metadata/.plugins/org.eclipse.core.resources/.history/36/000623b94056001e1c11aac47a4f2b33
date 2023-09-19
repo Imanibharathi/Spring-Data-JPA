@@ -1,0 +1,5 @@
+package com.goSpring.restdemo.model;
+
+public class CloudVendor {
+
+}

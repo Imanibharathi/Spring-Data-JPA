@@ -1,0 +1,5 @@
+package com.goSpring.restdemo.repository;
+
+public interface CloudVendorRepo {
+
+}

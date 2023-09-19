@@ -1,0 +1,5 @@
+package com.goSpring.restdemo.service.impl;
+
+public class CloudVendorServiceImpl {
+
+}
